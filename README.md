@@ -13,6 +13,10 @@ In order to run the repository, the following dependencies need to be installed/
 - pandas
 
 # About the challenge:
+## Deliverables:
+- Deliverable 1: A Jupyter notebook containing code that imports the data and sets up and updates the uk_food database (['NoSQL_setup_starter.ipynb'](https://github.com/catisf/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb));
+- Deliverable 2: A Jupyter notebook containing code that performs the exploratory analysis queries in the database (['NoSQL_setup_starter.ipynb'](https://github.com/catisf/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb)).
+- 
 ## Part 1: Setup
 - Using ['NoSQL_setup_starter.ipynb'](https://github.com/catisf/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb):
   - Import the data in the 'establishments.json' file. Name the database uk_food and the collection establishments. The notebook includes details on how to import the data and assign the correct name to the database and the collection;
